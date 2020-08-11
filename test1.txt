@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is FE51-3E58
-
- Directory of C:\Users\mehta\Desktop\Myproject2
-
-08/10/2020  04:56 PM    <DIR>          .
-08/10/2020  04:56 PM    <DIR>          ..
-08/10/2020  04:56 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  285,087,186,944 bytes free
+change1
